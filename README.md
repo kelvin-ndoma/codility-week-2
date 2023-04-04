@@ -11,7 +11,9 @@
   ## BDD (Behavior Driven Development)
 
   Given: A string of words
-  When: when the words are camelcased with the given method, 
+  
+  When: when the words are camelcased with the given method,
+  
   Then: Return All words with their first letter capitalized without spaces.
 
   Example1
